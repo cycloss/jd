@@ -1,0 +1,15 @@
+# {{ .Title }}
+
+*Date: {{ .Date }}*
+
+*Tags: {{ range $i, $e := .Tags}}{{if $i}}, {{end}}{{ $e }}{{end}}*
+
+#### Gratitude
+
+
+
+#### Thoughts
+
+
+
+#### Problem Areas
