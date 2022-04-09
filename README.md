@@ -26,4 +26,4 @@ Creates a partially filled journaling template in the current directory, or if s
 
 ## Other Information
 
-- The template is installed at `/usr/local/etc/jd/journalTemplate.txt`, and modifications can be made to its structure; however, care should be taken when modifying template components.
+- The template in `./etc/jd` is installed at `/usr/local/etc/jd/journalTemplate.txt`, and modifications can be made to its structure; however, care should be taken when modifying template components.
